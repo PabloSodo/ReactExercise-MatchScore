@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactExercise-MatchScore/static/css/main.ff4d0c55.css",
-    "main.js": "/ReactExercise-MatchScore/static/js/main.d83aca48.js",
-    "static/media/usa.svg": "/ReactExercise-MatchScore/static/media/usa.a785826b7bf355c7de61a9237467ddb6.svg",
-    "static/media/arg.svg": "/ReactExercise-MatchScore/static/media/arg.38086ecdaeb496c8915a4cd05c635ed6.svg",
-    "index.html": "/ReactExercise-MatchScore/index.html",
-    "main.ff4d0c55.css.map": "/ReactExercise-MatchScore/static/css/main.ff4d0c55.css.map",
-    "main.d83aca48.js.map": "/ReactExercise-MatchScore/static/js/main.d83aca48.js.map"
+    "main.css": "/ReactExercise-MatchScore/nn/static/css/main.ff4d0c55.css",
+    "main.js": "/ReactExercise-MatchScore/nn/static/js/main.934b1784.js",
+    "static/media/usa.svg": "/ReactExercise-MatchScore/nn/static/media/usa.a785826b7bf355c7de61a9237467ddb6.svg",
+    "static/media/arg.svg": "/ReactExercise-MatchScore/nn/static/media/arg.38086ecdaeb496c8915a4cd05c635ed6.svg",
+    "index.html": "/ReactExercise-MatchScore/nn/index.html",
+    "main.ff4d0c55.css.map": "/ReactExercise-MatchScore/nn/static/css/main.ff4d0c55.css.map",
+    "main.934b1784.js.map": "/ReactExercise-MatchScore/nn/static/js/main.934b1784.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4d0c55.css",
-    "static/js/main.d83aca48.js"
+    "static/js/main.934b1784.js"
   ]
 }
