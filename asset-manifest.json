@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactExercise-MatchScore.git/static/css/main.ff4d0c55.css",
+    "main.js": "/ReactExercise-MatchScore.git/static/js/main.862656a4.js",
+    "static/media/usa.svg": "/ReactExercise-MatchScore.git/static/media/usa.a785826b7bf355c7de61a9237467ddb6.svg",
+    "static/media/arg.svg": "/ReactExercise-MatchScore.git/static/media/arg.38086ecdaeb496c8915a4cd05c635ed6.svg",
+    "index.html": "/ReactExercise-MatchScore.git/index.html",
+    "main.ff4d0c55.css.map": "/ReactExercise-MatchScore.git/static/css/main.ff4d0c55.css.map",
+    "main.862656a4.js.map": "/ReactExercise-MatchScore.git/static/js/main.862656a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4d0c55.css",
+    "static/js/main.862656a4.js"
+  ]
+}
